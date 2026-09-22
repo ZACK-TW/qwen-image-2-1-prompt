@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.svg" width="112" alt="Qwen Image 2.1 Prompt icon">
+  <img src="assets/icon.png" width="112" alt="Qwen Image 2.1 Prompt icon">
 </p>
 
 <h1 align="center">Qwen Image 2.1 Prompt</h1>
@@ -186,7 +186,7 @@ Use $qwen-image-2-1-prompt.
 | [`references/cinematography-language.md`](references/cinematography-language.md) | 景別、視角、構圖、運鏡轉譯、燈光、色彩與敘事功能 |
 | [`references/camera-and-lens-looks.md`](references/camera-and-lens-looks.md) | 電影機種、Cooke、現代電影鏡、東德與蘇聯老鏡的靜態影像特徵 |
 | [`agents/openai.yaml`](agents/openai.yaml) | 顯示名稱、預設提示與叫用設定 |
-| [`assets/icon.svg`](assets/icon.svg) | Skill 圖示 |
+| [`assets/icon.png`](assets/icon.png) | Skill 圖示 |
 
 ## 設計原則
 
@@ -215,7 +215,7 @@ qwen-image-2-1-prompt/
 ├── agents/
 │   └── openai.yaml
 ├── assets/
-│   └── icon.svg
+│   └── icon.png
 └── references/
     ├── camera-and-lens-looks.md
     ├── cinematography-language.md

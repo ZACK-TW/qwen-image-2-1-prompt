@@ -3,8 +3,8 @@ interface:
   short_description: 將文字與參考圖改寫為 Qwen Image 2.1 精準提示詞
   default_prompt: Use $qwen-image-2-1-prompt to turn my concept and reference images
     into a production-ready Qwen Image 2.1 prompt.
-  icon_small: assets/icon.svg
-  icon_large: assets/icon.svg
+  icon_small: assets/icon.png
+  icon_large: assets/icon.png
 policy:
   products:
   - chatgpt
