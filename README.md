@@ -12,7 +12,8 @@
   <a href="SKILL.md">Skill Instructions</a> ·
   <a href="#安裝方式">Installation</a> ·
   <a href="#使用範例">Examples</a> ·
-  <a href="#知識模組">Knowledge Modules</a>
+  <a href="#知識模組">Knowledge Modules</a> ·
+  <a href="#授權">License</a>
 </p>
 
 ---
@@ -208,6 +209,8 @@ Use $qwen-image-2-1-prompt.
 
 ```text
 qwen-image-2-1-prompt/
+├── LICENSE
+├── README.md
 ├── SKILL.md
 ├── agents/
 │   └── openai.yaml
@@ -220,8 +223,14 @@ qwen-image-2-1-prompt/
     └── text-to-image.md
 ```
 
-## 維護者
+## 授權
 
-Created and maintained by [ZACK-TW](https://github.com/ZACK-TW).
+本專案採用 [MIT License](LICENSE)。
+
+Copyright (c) 2026 Zack AI Lab.
+
+## 作者與維護者
+
+Created and maintained by **Zack AI Lab** ([ZACK-TW](https://github.com/ZACK-TW)).
 
 如果你在實際生成中遇到 Prompt 失真、參考圖資訊互相污染、構圖方向錯誤或鏡頭語言不穩定，歡迎透過 GitHub Issues 提供案例。
